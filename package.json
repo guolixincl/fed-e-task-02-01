@@ -1,0 +1,23 @@
+{
+  "name": "fed-e-task-02-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "codes/1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guolixincl/fed-e-task-02-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guolixincl/fed-e-task-02-01/issues"
+  },
+  "homepage": "https://github.com/guolixincl/fed-e-task-02-01#readme",
+  "devDependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
